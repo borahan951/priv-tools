@@ -54,12 +54,12 @@ def banners():
  /_/   \_\__,_|\__\___/|_|   \__,_|\___|_|\_\___|_|       \_/  |_|
                                                                   
 
-              Coded By: Raiz0WorM & X-Warn!ng
+             
 			  
 			  #If you want to buy contact one of us =)
 			  
-              [+]  https://www.facebook.com/youness.ih.1 [+] 
-				[+] https://www.facebook.com/Warning.Siyass [+] 
+              [+]  coded by mekanık_mech  [+] 
+				[+] instagram.com/mekanık_mech [+] 
 
 
 
